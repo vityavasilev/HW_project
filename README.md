@@ -14,3 +14,6 @@ colab part 2:
 Название|N50|число генов| Длинна генома | Место обитания
 ----|----|----|----|----
 Nothopythophthora sp. Chile5|15.8Kb|27122 |84.4 Mb| Листва эвкалипта (Чили; возможно, Новая Зеландия)
+
+## Annotation
+full: https://www.ncbi.nlm.nih.gov/datasets/gene/GCA_001712635.2/
