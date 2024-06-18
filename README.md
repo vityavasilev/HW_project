@@ -17,3 +17,4 @@ Nothopythophthora sp. Chile5|15.8Kb|27122 |84.4 Mb| Листва эвкалип�
 
 ## Annotation
 full: https://www.ncbi.nlm.nih.gov/datasets/gene/GCA_001712635.2/
+![image](https://github.com/vityavasilev/HW_project/assets/147335727/758f3d6b-f9e5-47d3-a4b3-f0f315376951)
